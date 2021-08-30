@@ -1,0 +1,23 @@
+{
+  "name": "udemyStephanGriderTypescript",
+  "version": "1.0.0",
+  "description": "TypeScript tutorial by Stephan Grider on Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jroux-git/udemyStephanGriderTypescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jroux-git/udemyStephanGriderTypescript/issues"
+  },
+  "homepage": "https://github.com/jroux-git/udemyStephanGriderTypescript#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
