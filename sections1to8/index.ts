@@ -23,3 +23,8 @@ const logTodo = (todo:Todo) => {
   Is it finished: ${todo.completed}
   `);
 };
+
+function x (a: number): string | number {
+  return 2;
+  
+}
